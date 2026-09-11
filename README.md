@@ -200,10 +200,8 @@ Arduino IDE-তে নিচের লাইব্রেরিগুলো ই�
 
 ## 📺 ভিডিও টিউটোরিয়াল ও চ্যানেল (YouTube & Support)
 
-> এখানে আপনার নিজের ইউটিউব চ্যানেল/ডেমো ভিডিওর লিংক যোগ করতে পারেন:
-
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://youtu.be/0Nb7TMpkb_0?si=voNOm6EwzIhUyrkx" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube" alt="YouTube Demo">
   </a>
 </p>
